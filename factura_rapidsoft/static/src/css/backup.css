@@ -1,0 +1,563 @@
+/*.contenedor{*/
+/*font-size:8px;*/
+/*!*font-family:"Arial";*!*/
+/*}*/
+
+
+.fechaxx01{
+    font-size:9px;
+    position: absolute;
+    left: 2cm;
+    top: 1.9cm;
+    width: 400px;
+
+}
+.contado{
+    font-size:9px;
+    position: absolute;
+    left: 17cm;
+    top: 1.85cm;
+}
+.credito{
+    font-size:9px;
+    position: absolute;
+    left: 19cm;
+    top: 1.85cm;
+}
+.ruc{
+    font-size:9px;
+    position: absolute;
+    left: 1.7cm;
+    top: 2.2cm;
+    width: 500px;
+}
+.notaderemisionro{
+    font-size:9px;
+    position: absolute;
+    left: 15.2cm;
+    top: 2.15cm;
+}
+.nombre{
+    font-size:9px;
+    position: absolute;
+    left: 3.2cm;
+    top: 2.5cm;
+    width: 400px;
+}
+.ordendecompranro{
+    font-size:9px;
+    position: absolute;
+    left: 18cm;
+    top: 3.25cm;
+}
+.direccion{
+    font-size:9px;
+    position: absolute;
+    left: 16.7cm;
+    top: 2.4cm;
+    width: 300px;
+}
+.telefono{
+    font-size:9px;
+    position: absolute;
+    left: 19.4cm;
+    top: 3.4cm;
+}
+
+.articulocodigo1{
+    position: absolute;
+    left: 0.2cm;
+    top: 3.5cm;
+}
+
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th {
+    border: none;
+    padding: 0.2px;
+}
+
+
+.cantidad{
+    font-size:9px;
+    left: 0.2cm;
+    top: 3.5cm;
+    width: 50px;
+    text-align: right;
+    /*font-size:9px;*/
+    /*position: absolute;*/
+    /*left: 0.3cm;*/
+    /*top: 4.2cm;*/
+}
+.descripcion{
+    font-size:9px;
+    position: absolute;
+    left: 1.6cm;
+    width: 500px;
+    /*text-align: right;*/
+
+
+
+    /*top: 4.2cm;*/
+}
+.preciounitario{
+    font-size:9px;
+    position: absolute;
+    left: 15.3cm;
+    /*top: 4.2cm;*/
+    width: 65px;
+    text-align: right;
+}
+.exentas{
+    font-size:9px;
+    position: absolute;
+    left: 17.3cm;
+    /*top: 4.2cm;*/
+    width: 80px;
+    text-align: right;
+}
+.cinco{
+    font-size:9px;
+    position: absolute;
+    left: 19.7cm;
+    /*top: 4.2cm;*/
+    width: 85px;
+    text-align: right;
+}
+.diez{
+    font-size:9px;
+    position: absolute;
+    left: 22.2cm;
+    /*top: 4.2cm;*/
+    width: 90px;
+    text-align: right;
+}
+.valorparcialexenta{
+    font-size:9px;
+    position: absolute;
+    left: 17.4cm;
+    top: 9.3cm;
+    width: 80px;
+    text-align: right;
+}
+.valorparcialcincoporciento{
+    font-size:9px;
+    position: absolute;
+    left: 19.8cm;
+    top: 9.3cm;
+    width: 85px;
+    text-align: right;
+}
+.valorparcialdiezporciento{
+    font-size:9px;
+    position: absolute;
+    left: 22.3cm;
+    top: 9.3cm;
+    width: 90px;
+    text-align: right;
+}
+.liqcinco{
+    font-size:9px;
+    position: absolute;
+    left: 5.7cm;
+    top: 11cm;
+    width: 120px;
+}
+.liqdiez{
+    font-size: 9px;
+    position: absolute;
+    left: 10.75cm;
+    top: 11cm;
+    width: 120px;
+}
+
+.liqtotal{
+    font-size:9px;
+    position: absolute;
+    left: 16.6cm;
+    top: 11cm;
+    width: 200px;
+}
+.total{
+    font-size:9px;
+    position: absolute;
+    left: 20.1cm;
+    top: 9.9cm;
+    width: 175px;
+    text-align: right;
+}
+.totalapagar{
+    font-size:9px;
+    position: absolute;
+    left: 3.3cm;
+    top: 9.9cm;
+    width: 500px;
+}
+/*##########################HOJA NRO 2#################################################*/
+
+
+.fechaxx012{
+    font-size:9px;
+    position: absolute;
+    left: 2cm;
+    top: 15.35cm;
+    width: 400px;
+}
+.contado2{
+    font-size:9px;
+    position: absolute;
+    left: 17cm;
+    top: 15.5cm;
+}
+.credito2{
+    font-size:9px;
+    position: absolute;
+    left: 19cm;
+    top: 15.5cm;
+}
+.ruc2{
+    font-size:9px;
+    position: absolute;
+    left: 1.7cm;
+    top: 15.7cm;
+    width: 500px;
+}
+.notaderemisionro2{
+    font-size:9px;
+    position: absolute;
+    left: 15.2cm;
+    top: 15.7cm;
+}
+.nombre2{
+    font-size:9px;
+    position: absolute;
+    left: 3.2cm;
+    top: 16cm;
+    width: 400px;
+}
+.ordendecompranro2{
+    font-size:9px;
+    position: absolute;
+    left: 18cm;
+    top: 26.65cm;
+}
+.direccion2{
+    font-size:9px;
+    position: absolute;
+    left: 16.7cm;
+    top: 15.8cm;
+    width: 300px;
+}
+.telefono2{
+    font-size:9px;
+    position: absolute;
+    left: 19.4cm;
+    top: 16.8cm;
+}
+
+.articulocodigo12{
+    position: absolute;
+    left: 0.2cm;
+    top: 16.9cm;
+}
+
+
+
+.cantidad2{
+    font-size:9px;
+    left: 0.2cm;
+    top: 3.5cm;
+    width: 50px;
+    text-align: right;
+    /*font-size:9px;*/
+    /*position: absolute;*/
+    /*left: 0.3cm;*/
+    /*top: 4.2cm;*/
+}
+.descripcion2{
+    font-size:9px;
+    position: absolute;
+    left: 1.6cm;
+    width: 500px;
+
+    /*top: 4.2cm;*/
+}
+.preciounitario2{
+    font-size:9px;
+    position: absolute;
+    left: 15.3cm;
+    /*top: 4.2cm;*/
+    width: 65px;
+    text-align: right;
+}
+.exentas2{
+    font-size:9px;
+    position: absolute;
+    left: 17.3cm;
+    /*top: 4.2cm;*/
+    width: 80px;
+    text-align: right;
+}
+.cinco2{
+    font-size:9px;
+    position: absolute;
+    left: 19.7cm;
+    /*top: 4.2cm;*/
+    width: 85px;
+    text-align: right;
+}
+.diez2{
+    font-size:9px;
+    position: absolute;
+    left: 22.2cm;
+    /*top: 4.2cm;*/
+    width: 90px;
+    text-align: right;
+}
+.valorparcialexenta2{
+    font-size:9px;
+    position: absolute;
+    left: 17.4cm;
+    top: 22.7cm;
+    width: 80px;
+    text-align: right;
+}
+.valorparcialcincoporciento2{
+    font-size:9px;
+    position: absolute;
+    left: 19.8cm;
+    top: 22.7cm;
+    width: 85px;
+    text-align: right;
+}
+.valorparcialdiezporciento2{
+    font-size:9px;
+    position: absolute;
+    left: 22.3cm;
+    top: 22.7cm;
+    width: 90px;
+    text-align: right;
+}
+.liqcinco2{
+    font-size:9px;
+    position: absolute;
+    left: 5.7cm;
+    top: 24.4cm;
+    width: 120px;
+}
+.liqdiez2{
+    font-size: 9px;
+    position: absolute;
+    left: 10.75cm;
+    top: 24.4cm;
+    width: 120px;
+}
+
+.liqtotal2{
+    font-size:9px;
+    position: absolute;
+    left: 16.6cm;
+    top: 24.4cm;
+    width: 200px;
+}
+.total2{
+    font-size:9px;
+    position: absolute;
+    left: 20.1cm;
+    top: 23.3cm;
+    width: 175px;
+    text-align: right;
+}
+.totalapagar2{
+    font-size:9px;
+    position: absolute;
+    left: 3.3cm;
+    top: 23.3cm;
+    width: 500px;
+}
+
+
+/*################################## hoja 3 #######################*/
+
+
+.fechaxx013{
+    font-size:9px;
+    position: absolute;
+    left: 2cm;
+    top: 28.8cm;
+    width: 400px;
+}
+.contado3{
+    font-size:9px;
+    position: absolute;
+    left: 17cm;
+    top: 28.6cm;
+}
+.credito3{
+    font-size:9px;
+    position: absolute;
+    left: 19cm;
+    top: 28.6cm;
+}
+.ruc3{
+    font-size:9px;
+    position: absolute;
+    left: 1.7cm;
+    top: 29cm;
+    width: 500px;
+}
+.notaderemisionro3{
+    font-size:9px;
+    position: absolute;
+    left: 15.2cm;
+    top: 29cm;
+}
+.nombre3{
+    font-size:9px;
+    position: absolute;
+    left: 3.2cm;
+    top: 29.3cm;
+    width: 400px;
+}
+.ordendecompranro3{
+    font-size:9px;
+    position: absolute;
+    left: 18cm;
+    top: 30.05cm;
+}
+.direccion3{
+    font-size:9px;
+    position: absolute;
+    left: 16.7cm;
+    top: 29.1cm;
+    width: 300px;
+}
+.telefono3{
+    font-size:9px;
+    position: absolute;
+    left: 19.4cm;
+    top: 30.2cm;
+}
+
+.articulocodigo13{
+    position: absolute;
+    left: 0.2cm;
+    top: 30.3cm;
+}
+
+
+.cantidad3{
+    font-size:9px;
+    left: 0.2cm;
+    top: 3.5cm;
+    width: 50px;
+    text-align: right;
+    /*font-size:9px;*/
+    /*position: absolute;*/
+    /*left: 0.3cm;*/
+    /*top: 4.2cm;*/
+}
+.descripcion3{
+    font-size:9px;
+    position: absolute;
+    left: 1.6cm;
+    width: 500px;
+
+    /*top: 4.2cm;*/
+}
+.preciounitario3{
+    font-size:9px;
+    position: absolute;
+    left: 15.3cm;
+    /*top: 4.2cm;*/
+    width: 65px;
+    text-align: right;
+}
+.exentas3{
+    font-size:9px;
+    position: absolute;
+    left: 17.3cm;
+    /*top: 4.2cm;*/
+    width: 80px;
+    text-align: right;
+}
+.cinco3{
+    font-size:9px;
+    position: absolute;
+    left: 19.7cm;
+    /*top: 4.2cm;*/
+    width: 85px;
+    text-align: right;
+}
+.diez3{
+    font-size:9px;
+    position: absolute;
+    left: 22.2cm;
+    /*top: 4.2cm;*/
+    width: 90px;
+    text-align: right;
+}
+.valorparcialexenta3{
+    font-size:9px;
+    position: absolute;
+    left: 17.4cm;
+    top: 36.1cm;
+    width: 80px;
+    text-align: right;
+}
+.valorparcialcincoporciento3{
+    font-size:9px;
+    position: absolute;
+    left: 19.8cm;
+    top: 36.1cm;
+    width: 85px;
+    text-align: right;
+}
+.valorparcialdiezporciento3{
+    font-size:9px;
+    position: absolute;
+    left: 22.3cm;
+    top: 36.1cm;
+    width: 90px;
+    text-align: right;
+}
+.liqcinco3{
+    font-size:9px;
+    position: absolute;
+    left: 5.7cm;
+    top: 37.8cm;
+    width: 120px;
+}
+.liqdiez3{
+    font-size: 9px;
+    position: absolute;
+    left: 10.75cm;
+    top: 37.8cm;
+    width: 120px;
+}
+
+.liqtotal3{
+    font-size:9px;
+    position: absolute;
+    left: 16.6cm;
+    top: 37.8cm;
+    width: 200px;
+}
+.total3{
+    font-size:9px;
+    position: absolute;
+    left: 20.1cm;
+    top: 36.7cm;
+    width: 175px;
+    text-align: right;
+}
+.totalapagar3{
+    font-size:9px;
+    position: absolute;
+    left: 3.3cm;
+    top: 36.7cm;
+    width: 500px;
+}
